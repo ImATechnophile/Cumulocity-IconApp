@@ -1,0 +1,13 @@
+{
+  "name": "Parking Devices",
+  "description": "Monitering asserts",
+  "ngModules": [
+  "c8y.ui"
+  ],
+  "js": [
+  "icon.js"
+  ],
+  "imports": [],
+  "css": ["icon.css"],
+  "copy": ["CarIcon.svg"]
+}

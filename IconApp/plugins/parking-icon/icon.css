@@ -1,0 +1,5 @@
+.c8y-icon-iconapp:before {
+  content: '';
+  background-image: url('CarIcon.svg');
+  
+}

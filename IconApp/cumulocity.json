@@ -1,0 +1,12 @@
+{
+  "availability": "PRIVATE",
+  "contextPath": "iconapp",
+  "key": "iconapp-pikey",
+  "name": "iconapp",
+  "resourcesUrl": "/",
+  "type": "HOSTED",
+  "imports": [
+  	"core/c8yBranding",
+    "iconapp/parking-icon"
+  ]
+}
